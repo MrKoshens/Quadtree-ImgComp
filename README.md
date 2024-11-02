@@ -38,11 +38,11 @@ addpath(genpath('path_to_repository'));
 ```
 
 Usage
-
+```
 	1.	Place the image file in the images/ folder.
 	2.	Run the main script in MATLAB to compress the image:
-  3.  The main scripts are presentation.m that encodes and compresses the image. And the decoded_presentation.m decompresses and decodes the image.
-
+  	3.  	The main scripts are presentation.m that encodes and compresses the image. And the decoded_presentation.m decompresses and decodes the image.
+```
 Results
 
 This algorithm outperforms traditional image compression methods such as JPEG and Run-Length Encoding, with key advantages in:

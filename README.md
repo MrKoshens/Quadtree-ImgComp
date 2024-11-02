@@ -27,12 +27,12 @@ Requirements
 
 Installation
 
-	1.	Clone this repository:
+1.	Clone this repository:
  ```
 git clone https://github.com/yourusername/Efficient-Image-Compression.git
 cd Efficient-Image-Compression
 ```
-	2.	Open MATLAB and add the repository folder to your MATLAB path:
+2.	Open MATLAB and add the repository folder to your MATLAB path:
  ```
 addpath(genpath('path_to_repository'));
 ```
